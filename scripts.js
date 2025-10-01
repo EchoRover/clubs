@@ -24,7 +24,7 @@ const linksData = {
   "Sports Cluster": { 
     "Football Club": "https://teams.microsoft.com/l/channel/19%3A5XI9bSMdSJjFrUSMl0jE6H3OC9OuH-UUQgmZ2NSjNzw1%40thread.tacv2/General?groupId=673697ab-9f1e-4d60-a888-0869e7db8cbc&tenantId=e45d3d7e-6bc9-44e7-bf38-81207f0fbd4b",
     "Cricket Club": "https://teams.microsoft.com/l/team/19%3AkXDIfEWlEOOhzhFOq0eGuB6ljD1hGPN5bBjHI-tYP_U1%40thread.tacv2/conversations?groupId=5d6cd059-388b-4613-b7e7-5b2d48845a05&tenantId=e45d3d7e-6bc9-44e7-bf38-81207f0fbd4b",
-      "Badminton Club": "https://teams.microsoft.com/l/channel/19:kiR-6gf_7ymuNnXOARpLLRFUw_oqFvlngpoOQH66KCQ1@thread.tacv2/General?groupId=1f174683-9984-497b-9b94-09cdbdff0813&tenantId=e45d3d7e-6bc9-44e7-bf38-81207f0fbd4b",
+      "Badminton Community": "https://teams.microsoft.com/l/channel/19:kiR-6gf_7ymuNnXOARpLLRFUw_oqFvlngpoOQH66KCQ1@thread.tacv2/General?groupId=1f174683-9984-497b-9b94-09cdbdff0813&tenantId=e45d3d7e-6bc9-44e7-bf38-81207f0fbd4b",
 
 
    }
