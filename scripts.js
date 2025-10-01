@@ -6,23 +6,23 @@ const linksData = {
   courses: {
   
     "Technical Clubs": {
-      "Coding Club": "https://www.cse.iitd.ac.in/%7Erjaiswal/Teaching/2025/ACOL106/slides.html",
-      "Fintech Club": "https://www.cse.iitd.ac.in/%7Erjaiswal/Teaching/2025/ACOL106/homework.html",
-      "Sustainablity Club": " https://www.cse.iitd.ac.in/%7Erjaiswal/Teaching/2025/ACOL106/quiz.html",
+      "Coding Club": "https://teams.microsoft.com/l/team/19%3AUhZiySpquxjqhkPYCDtt1q356HO155MtCsx2Phzud4c1%40thread.tacv2/conversations?groupId=03b27118-9026-42a8-b76b-1197494bb51b&tenantId=e45d3d7e-6bc9-44e7-bf38-81207f0fbd4b",
+      "Fintech Club": "https://media.licdn.com/dms/image/v2/C5112AQEw1fXuabCTyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1581099611064?e=1761177600&v=beta&t=7hMw9_W0flONIBUwsc_H29TRe6QykU2h6zaf1rOHEzQ",
+      "Sustainablity Club": "https://media.licdn.com/dms/image/v2/C5112AQEw1fXuabCTyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1581099611064?e=1761177600&v=beta&t=7hMw9_W0flONIBUwsc_H29TRe6QykU2h6zaf1rOHEzQ",
  
     },
     "Cultural Clubs": {
-      "Music Club": "https://www.gradescope.com/courses/1086727",
-      "Fine Arts Club": "https://piazza.com/class/megt7ecep5i4wy",
-      "Digital Arts and Design": "https://www.cse.iitd.ac.in/%7Erjaiswal/Teaching/2025/ACOL106/",
-      "Quizzing Club": "https://www.cse.iitd.ac.in/%7Erjaiswal/Teaching/2025/ACOL106/",
+      "Music Club": "https://media.licdn.com/dms/image/v2/C5112AQEw1fXuabCTyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1581099611064?e=1761177600&v=beta&t=7hMw9_W0flONIBUwsc_H29TRe6QykU2h6zaf1rOHEzQ",
+      "Fine Arts Club": "https://media.licdn.com/dms/image/v2/C5112AQEw1fXuabCTyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1581099611064?e=1761177600&v=beta&t=7hMw9_W0flONIBUwsc_H29TRe6QykU2h6zaf1rOHEzQ",
+      "Digital Arts and Design": "https://media.licdn.com/dms/image/v2/C5112AQEw1fXuabCTyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1581099611064?e=1761177600&v=beta&t=7hMw9_W0flONIBUwsc_H29TRe6QykU2h6zaf1rOHEzQ",
+      "Quizzing Club": "https://media.licdn.com/dms/image/v2/C5112AQEw1fXuabCTyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1581099611064?e=1761177600&v=beta&t=7hMw9_W0flONIBUwsc_H29TRe6QykU2h6zaf1rOHEzQ",
 
       
 
 
   },
   "Sports Club": { 
-    "Football Club": "https://www.cse.iitd.ac.in/%7Erjaiswal/Teaching/2025/ACOL106/slides.html",
+    "Football Club": "https://media.licdn.com/dms/image/v2/C5112AQEw1fXuabCTyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1581099611064?e=1761177600&v=beta&t=7hMw9_W0flONIBUwsc_H29TRe6QykU2h6zaf1rOHEzQ",
    }
 
 }
