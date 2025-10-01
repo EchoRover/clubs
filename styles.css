@@ -231,14 +231,34 @@ a:hover {
     border-radius: 8px;
     font-weight: 500;
     margin-bottom: 1rem;
-    min-width: 15rem;;
+    min-width: 15rem;
     transition: transform 0.3s;
 }
 .box:hover ,.general:hover, .updates:hover    {
     transform: scale(1.025) ;
 }
 
+.othercontent{ 
+    margin: 2rem;
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    word-wrap: break-word;
+}
 
+.bigbox{
+    flex: 1;
+     background: var(--primary-200);
+    color: var(--text-900);
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    font-weight: 500;
+    margin-bottom: 1rem;
+   
+    transition: transform 0.3s;
+}
 
 .updates {
     display: flex;
