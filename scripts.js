@@ -12,7 +12,7 @@ const linksData = {
  
     },
     "Cultural Cluster": {
-      "Music Club": "https://media.licdn.com/dms/image/v2/C5112AQEw1fXuabCTyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1581099611064?e=1761177600&v=beta&t=7hMw9_W0flONIBUwsc_H29TRe6QykU2h6zaf1rOHEzQ",
+      "Music Club": "https://teams.microsoft.com/l/channel/19%3A4Bp3-j-Np1MajPXE_gTbvGlJezQfMO5ugW1eMIXOniw1%40thread.tacv2/General?groupId=7d47f4af-d190-458c-8c10-e1a27283a09f&tenantId=e45d3d7e-6bc9-44e7-bf38-81207f0fbd4b",
       "Fine Arts Club": "https://teams.microsoft.com/l/channel/19%3ArYWGLsBzJzJDmVW1jrdg9JPSXBoX7L-bCIW7Za4Rk2c1%40thread.tacv2/General?groupId=5583ec23-ec49-44e2-99d7-7d0f563beac5&tenantId=e45d3d7e-6bc9-44e7-bf38-81207f0fbd4b",
       "Digital Arts and Design": "https://teams.microsoft.com/l/team/19%3AtQk3bqt4jurpR8kN5RsbkWqHsBU8cmi6CQDut8XNs-o1%40thread.tacv2/conversations?groupId=f103bbc5-1107-4329-a90f-21354a56642f&tenantId=e45d3d7e-6bc9-44e7-bf38-81207f0fbd4b",
       "Quizzing Club": "https://teams.microsoft.com/l/team/19%3AfruLHScyilWnLIc9zDBPaon8GniSobjPpLlpuaCXebo1%40thread.tacv2/conversations?groupId=62b9ee12-6367-4674-9c32-ff9c50a21929&tenantId=e45d3d7e-6bc9-44e7-bf38-81207f0fbd4b",
